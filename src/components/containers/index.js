@@ -1,0 +1,9 @@
+export {default as About} from './About/index';
+export {default as Chef} from './Chef/index';
+export {default as Header} from './Header/index';
+export {default as Find} from './Find/index';
+export {default as Footer} from './Footer/index';
+export {default as Gallery} from './Gallery/index';
+export {default as Intro} from './Intro/index';
+export {default as Laurels} from './Laurels/index';
+export {default as Menu} from './Menu/index';
